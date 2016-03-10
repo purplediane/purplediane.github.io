@@ -16,7 +16,7 @@ github_username:  purplediane
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
 
 #permalink: /:title
 excerpt_separator: ""
