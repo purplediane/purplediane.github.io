@@ -8,7 +8,7 @@
 # Site settings
 title: Diane Chen's Jekyll Blog
 
-description: A Random Techie Blog
+description: A Random Techie Blog implemented with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://purplediane.github.io/" # the base hostname & protocol for your site
 twitter_username: pugpost
