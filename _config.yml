@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Diane Chen's Jekyll Blog
+title: Diane Chen's Techie Blog
 
 description: A Random Techie Blog implemented with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,10 +15,20 @@ twitter_username: pugpost
 github_username:  purplediane
 
 # Build settings
+# markdown: KramdownPygments
+
 markdown: kramdown
+### pygments not supported on GitHub
 #highlighter: pygments
 
-#permalink: /:title
+## from http://blog.championswimmer.in/2015/10/jekyllsyntax-highlighting-in-github-favoured-markdown-codeblocks
+## OOps. Pygments not supported on github Pages
+# markdown: redcarpet
+# highlighter: pygments
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
+# permalink: /:title
 excerpt_separator: ""
 
 timezone: America/Los_Angeles

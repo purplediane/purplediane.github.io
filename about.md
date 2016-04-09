@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Random technical-related blog posts by Diane Chen.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+See [My LinkedIn Profile][LinkedIn]
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I also like to do sketching and mixed media art: [My Art blog][artblog]
+
+[LinkedIn]: https://www.linkedin.com/in/dianedemerschen
+[artblog]: http://atcaday.blogspot.com/
