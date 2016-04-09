@@ -24,7 +24,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-I changed this to use different highlighting, rather than the "Liquid" it was originally because colors were lame (Okay, they are still lame, but not as bad):
+I changed this to use different highlighting, rather than the "Liquid" it was originally because colors were lame.
 
 ~~~ruby
 def print_hi(name)
