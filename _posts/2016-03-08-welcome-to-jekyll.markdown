@@ -8,11 +8,11 @@ categories: jekyll update
 
 You don't have to read it.
 
-It doesn't apply to you. ✋
+### It doesn't apply to you. ✋
 
 If it did, you would have your own copy of this post in your Jekyll blog.
 
-🐾
+### 🐾
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -20,7 +20,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-I changed this to use different highlighting, rather than the "Liquid" it was originally because colors were lame (Okay, there are still lame, but not as bad):
+I changed this to use different highlighting, rather than the "Liquid" it was originally because colors were lame (Okay, they are still lame, but not as bad):
 
 ~~~ruby
 def print_hi(name)
