@@ -6,6 +6,10 @@ categories: jekyll update
 ---
 🎈I'm leaving this here as the first post so I can easily find the info in it.
 
+It is the default first post created when Jekyll is first installed.
+
+I didn't write it.
+
 You don't have to read it.
 
 ### It doesn't apply to you. ✋
