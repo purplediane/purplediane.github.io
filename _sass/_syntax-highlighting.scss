@@ -22,16 +22,29 @@ green     #859900  operators, other keywords
     @extend %vertical-rhythm;
 
     .highlighter-rouge & {
-      background: #eef;
-    //   background: #fdf6e3;
+    //   background: #eef;
+      background: #fdf6e3;
     }
 }
+// override the _base
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #fdf6e3;
+}
+
+code {
+    padding: 1px 5px;
+}
+
 // Actual background color in code highlighting: #eeeefe,
 //     seems to be from the .highlighter-rouge, but something else uses it too.
 //     When I change rouge to this bgcolor, the overall bg changes, but not the bg around the text.
 //.highlight { background-color: #fdf6e3; color: #586e75; max-width: 56.25rem; padding: 1rem; border-radius: 1rem; margin: 0px auto 2em; }
 
-.highlight { padding: 1rem; border-radius: 1rem; margin: 0px auto 1em; }
+.highlight { background-color: #fdf6e3; color: #586e75; padding: 1rem; border-radius: 1rem; margin: 0px auto 1em; }
 .highlight .lineno { color: #93a1a1 } /* Line Numbers */
 .highlight .c { color: #93a1a1 } /* Comment */
 .highlight .err { color: #586e75; background-color: #e3d2d2  } /* Error */

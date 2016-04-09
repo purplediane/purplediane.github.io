@@ -18,8 +18,9 @@ github_username:  purplediane
 # markdown: KramdownPygments
 
 markdown: kramdown
+highlighter: rouge
 ### pygments not supported on GitHub
-#highlighter: pygments
+# highlighter: pygments
 
 ## from http://blog.championswimmer.in/2015/10/jekyllsyntax-highlighting-in-github-favoured-markdown-codeblocks
 ## OOps. Pygments not supported on github Pages
@@ -32,3 +33,11 @@ markdown: kramdown
 excerpt_separator: ""
 
 timezone: America/Los_Angeles
+
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Diane Chen"
