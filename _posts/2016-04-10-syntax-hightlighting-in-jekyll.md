@@ -5,10 +5,10 @@ date:   2016-04-10 23:17:39 -0800
 categories: jekyll
 ---
 
+![Before and After]({{ site.baseurl }}/assets/images/syntax.png)
+
 I was having a heck of a time getting my syntax highlighting to work in this new Jekyll bog. I don't like the standard colors
 for the syntax-highlighting. Can you say DULL? I just wanted the syntax highlighting to go from boring to interesting. I got it to work to my satisfaction (so far), so I thought I'd put this out there if it can help someone else. This is probably not an ideal solution, but it works for me.
-
-![Before and After]({{ site.baseurl }}/assets/images/syntax.png)
 
 There are **lots** of blog posts
 and Stack Overflow entries that talk about syntax highlighting in markdown, but many of them are old and don't apply anymore,
