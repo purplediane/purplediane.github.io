@@ -24,7 +24,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-I changed this to use different highlighting, rather than the "Liquid" it was originally because colors were lame.
+I changed this to use different highlighting, rather than the "Liquid" it was originally because colors were lame. See my post about [syntax highlighting in Jekyll and GitHub Pages][syntax].
 
 ~~~ruby
 def print_hi(name)
@@ -39,3 +39,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[syntax]: {{ site.baseurl }}/jekyll/2016/04/11/syntax-hightlighting-in-jekyll.html

@@ -45,7 +45,7 @@ $green:     #859900;
       background: $background;
     }
 }
-// override the _base
+// override the _base.scss
 pre,
 code {
     font-size: 15px;
@@ -63,7 +63,8 @@ code {
 
 .highlight { background-color: $background; color: $med-grey-dark; max-width: 56.25rem;padding: 1rem; border-radius: 1rem; margin: 0px auto 1em; }
 .highlight .lineno { color: $base1 } /* Line Numbers */
-.highlight .c { color: $base0 } /* Comment */
+.highlight .c { color: $base0; font-style: italic } /* Comment */
+.highlight .c1 { color: $base0; font-style: italic } /* Comment */
 .highlight .err { color: $med-grey-dark; background-color: $bg-error-shade  } /* Error */
 .highlight .g { color: $med-grey-dark } /* Generic */
 .highlight .k { color: $magenta } /* Keyword $green*/
