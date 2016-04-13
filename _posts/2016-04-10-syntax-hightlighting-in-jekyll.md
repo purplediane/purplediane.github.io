@@ -13,7 +13,7 @@ for the syntax-highlighting. Can you say DULL? I just wanted the syntax highligh
 
 There are **lots** of blog posts
 and Stack Overflow entries that talk about how to customize or improve syntax highlighting in markdown, but many of them are old and don't apply anymore,
-or they involve extra plugins or things that don't work on GitHub Pages, like Pygments. I'm not really savvy with CSS yet, so I didn't realize that the major problem was some CSS that was conflicting with the syntax highlighting. Spent a lot of time spinning my wheels on that. ⏳
+or they involve extra plugins or things that don't work on GitHub Pages, like Pygments. I'm not really savvy with CSS (yet), so I didn't realize that the major problem was some CSS that was conflicting with the syntax highlighting. Spent a lot of time spinning my wheels on that. ⏳
 
  I finally got it to work to my satisfaction (at least for now), so I thought I'd put this out there if it can help someone else. This is probably not an ideal solution, but it works for me.
 
