@@ -18,8 +18,20 @@ github_username:  purplediane
 
 markdown: kramdown
 highlighter: rouge
-### pygments not supported on GitHub
+
+### From http://simonvanderveldt.nl/github-pages-now-with-github-flavored-markdown-footnotes-and-syntax-highlighting/
+### But I can't figure out how to make it use my _syntax-highlighting.scss file, so it's out for now.
+# markdown: redcarpet
+# redcarpet:
+#   extensions:
+#     - footnotes
+#     - hard_wrap
+#     - no_intra_emphasis
+#     - autolink
+#     - strikethrough
+#
 # highlighter: pygments
+### end
 
 # permalink: /:title
 excerpt_separator: ""

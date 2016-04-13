@@ -15,7 +15,7 @@ There are **lots** of blog posts
 and Stack Overflow entries that talk about how to customize or improve syntax highlighting in markdown, but many of them are old and don't apply anymore,
 or they involve extra plugins or things that don't work on GitHub Pages, like Pygments. I'm not really savvy with CSS (yet), so I didn't realize that the major problem was some CSS that was conflicting with the syntax highlighting. Spent a lot of time spinning my wheels on that. ⏳
 
- I finally got it to work to my satisfaction (at least for now), so I thought I'd put this out there if it can help someone else. This is probably not an ideal solution, but it works for me.
+ I finally got it to work to my satisfaction (at least for now), so I thought I'd put this out there if it can help someone else. This is probably not an ideal solution, but it works for me and should work for you.
 
 ### Here is what I did 👏
 
@@ -40,7 +40,7 @@ code {
 }
 ~~~
 
-This file is now the `_sass/_syntax-highlighting.scss` file. You can find the file in the [source on Github.][purplediane]
+This file is now the `_sass/_syntax-highlighting.scss` file. You can find the file in the [source on Github.][purplediane] Feel free to do whatever you want with it.
 
 In my `_config.yml` file, I left the `markdown: kramdown` as it is and ended up not needing to change anything else. Some places recommended adding `highlighter: rouge`, but I didn't see that it made any difference. Perhaps later I will find a reason to use it.
 
