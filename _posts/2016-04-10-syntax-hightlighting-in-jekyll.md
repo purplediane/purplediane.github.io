@@ -3,16 +3,19 @@ layout: post
 title:  "Syntax Highlighting in Jekyll on Github Pages"
 date:   2016-04-10 23:17:39 -0800
 categories: jekyll
+excerpt: "How I prettified the syntax-highlighting on my Jekyll blog hosted on GitHub Pages."
 ---
 
 ![Before and After]({{ site.baseurl }}/assets/images/syntax.png)
 
 I was having a heck of a time getting my syntax highlighting to work in this new Jekyll bog. I don't like the standard colors
-for the syntax-highlighting. Can you say DULL? I just wanted the syntax highlighting to go from boring to interesting. I got it to work to my satisfaction (so far), so I thought I'd put this out there if it can help someone else. This is probably not an ideal solution, but it works for me.
+for the syntax-highlighting. Can you say DULL? I just wanted the syntax highlighting to go from boring to interesting, but I had a lot of trouble finding solutions that worked for me.
 
 There are **lots** of blog posts
-and Stack Overflow entries that talk about syntax highlighting in markdown, but many of them are old and don't apply anymore,
+and Stack Overflow entries that talk about how to customize or improve syntax highlighting in markdown, but many of them are old and don't apply anymore,
 or they involve extra plugins or things that don't work on GitHub Pages, like Pygments. I'm not really savvy with CSS yet, so I didn't realize that the major problem was some CSS that was conflicting with the syntax highlighting. Spent a lot of time spinning my wheels on that. ⏳
+
+ I finally got it to work to my satisfaction (at least for now), so I thought I'd put this out there if it can help someone else. This is probably not an ideal solution, but it works for me.
 
 ### Here is what I did 👏
 
