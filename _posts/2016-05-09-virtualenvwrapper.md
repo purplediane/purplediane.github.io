@@ -66,7 +66,7 @@ Here is a clickable link: [`virtualenvwrapper`][venvwrapper]
 
 ### Thanks for reading!
 
-I hope this has helped you with `virtualenvwrapper`! I have found it a very useful tool. A few people have told me they prefer using Python notebooks, and some don't like the way the projects are set up, but for me it has been great. I like to go through lots of tutorials and this is a good way to keep them separated and keep track of them.
+I hope this has helped you with `virtualenvwrapper`! I have found it a very useful tool and for me it has been great. I like to go through lots of tutorials and this is a good way to keep them separated and keep track of them.
 
 [venvwrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
 [th]: http://treyhunner.com/
