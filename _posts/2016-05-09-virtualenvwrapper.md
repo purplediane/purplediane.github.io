@@ -20,17 +20,24 @@ Especially when following various tutorials that do things a little differently.
 
 Now with `virtualenvwrapper`, I can always find my projects and virtualenvs.
 
-### Step 1. Install It
+### Step 1. Install It Globally
 
 ![Step 1]({{ site.baseurl }}/assets/images/Virtualenvwrapper.003.jpeg)
+
+My default Python is 2.7, but I want to have my default Python projects be 3.5, so I used
+`pip3.5` instead of just `pip`.
 
 ### Step 2. Simple Set-up
 
 ![Step 2]({{ site.baseurl }}/assets/images/Virtualenvwrapper.004.jpeg)
 
+Once all this is set up, you don't need to worry about it anymore. **Note: My .bashrc file is sourced by .bash_profile**
+
 ### Step 3. Create a Project
 
 ![Step 3]({{ site.baseurl }}/assets/images/Virtualenvwrapper.005.jpeg)
+
+Just like with any virtualenvs, your command line will be prefixed by the name of the virtualenv.
 
 ### Later on...
 
@@ -48,7 +55,9 @@ This is one of the best parts! I don't always remember what I called a project -
 
 ![Create virtualenv]({{ site.baseurl }}/assets/images/Virtualenvwrapper.008.jpeg)
 
-### Other Commands
+Sometimes you want a different file structure, or want the project to live somewhere other than the default folder. You can still create a virtualenv and use `workon myvenv` to activate it.
+
+### Other Useful Commands
 
 ![Other Commands]({{ site.baseurl }}/assets/images/Virtualenvwrapper.009.jpeg)
 
@@ -58,7 +67,7 @@ If you have several projects that are related (so you want to use a different pr
 
 ![Further Readings]({{ site.baseurl }}/assets/images/Virtualenvwrapper.010.jpeg)
 
-Here is a clickable link: [`virtualenvwrapper`][venvwrapper]
+Here is a clickable link to the docs: [`virtualenvwrapper`][venvwrapper]
 
 ### Caveats
 
@@ -66,7 +75,7 @@ Here is a clickable link: [`virtualenvwrapper`][venvwrapper]
 
 ### Thanks for reading!
 
-I hope this has helped you with `virtualenvwrapper`! I have found it a very useful tool and for me it has been great. I like to go through lots of tutorials and this is a good way to keep them separated and keep track of them.
+I hope this has helped you understand `virtualenvwrapper`! I have found it a very useful tool and for me it has been great. I like to go through lots of tutorials and this is a good way to keep them separated and keep track of them all.
 
 [venvwrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
 [th]: http://treyhunner.com/
