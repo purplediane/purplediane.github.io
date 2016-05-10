@@ -90,7 +90,10 @@ h1 {
     font-weight: bold;
 }
 h2 {color: $green;}
-h3 {color: $dark-purple;}
+h3 {
+    color: $dark-purple;
+    font-weight: bold;
+}
 h4, h5, h6 {color: $blue;}
 
 /**
