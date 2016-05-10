@@ -85,7 +85,13 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
-
+h1 {
+    color: $teal;
+    font-weight: bold;
+}
+h2 {color: $green;}
+h3 {color: $dark-purple;}
+h4, h5, h6 {color: $blue;}
 
 /**
  * Links

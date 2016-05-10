@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Syntax Highlighting in Jekyll on Github Pages"
-date:   2016-04-10 23:17:39 -0800
+date:   2016-04-10 23:17:39
 categories: jekyll
 excerpt: "How I prettified the syntax-highlighting on my Jekyll blog hosted on GitHub Pages."
 ---
