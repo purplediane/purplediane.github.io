@@ -14,7 +14,7 @@ My only previous experience with anything having to do with open source was maki
 
 ### Development Sprints are Awesome 💜💞
 
-Here on only the second day, I have already contributed 7 pull requests to projects related to the awesome [Cookiecutter package][cookiecutter]. How can this be? The reason is partly due to the fact that **all the main people involved are at the sprints and we are all sitting together** around several tables, so that when we have a question, someone can answer it easily. [Audrey Roy Greenfeld][audreyr] and [Danny Roy Greenfeld][pydanny] are the authors of Two Scoops of Django, a great book for anyone to use for guidelines for using Django.  There is also [Carol Willing][willingcarol], [Elias Dorneles][eliasdorneles], and [Christoper Clarke][realchrisdev], all experienced contributors to Cookiecutter and various Cookiecutter template packages. It has been really inspiring to have them available to answer questions, give advice and encouragement. I want to give a special shout out to Elias who was very patient with me and helped me get started with my very first open source code contribution!
+Here on only the second day, I have already contributed 7 pull requests to projects related to the awesome [Cookiecutter package][cookiecutter]. How can this be? The reason is partly due to the fact that **all the main people involved are at the sprints and we are all sitting together** around several tables, so that when we have a question, someone can answer it easily. [Audrey Roy Greenfeld][audreyr] and [Danny Roy Greenfeld][pydanny] are the authors of Two Scoops of Django, a great book for anyone to use for guidelines for using Django.  There is also [Carol Willing][willingcarol], [Elias Dorneles][eliasdorneles], and [Christopher Clarke][realchrisdev], all experienced contributors to Cookiecutter and various Cookiecutter template packages. It has been really inspiring to have them available to answer questions, give advice and encouragement. I want to give a special shout out to Elias who was very patient with me and helped me get started with my very first open source code contribution!
 
 ### Newcomers Can Often be Productive Immediately 👏
 
@@ -22,7 +22,7 @@ But another reason I have been so productive is that the packages to which I hav
 
 I wrote this blog post to encourage others who go to various conferences to attend the development sprints, if they are happening at the conference. I have learned so much just in these 2 days - and there are 2 more! And **contributing to open source projects is really satisfying.** Now I feel a little bit of ownership towards [Cookiecutter][cookiecutter], [cookecutter-pypackage][cc-pypackage], [cookiecutter-djangopackage][cc-djangopackage], and [wagtail-cookiecutter-foundation][wagtail-cc-fnd].
 
-### Project Owners Can Help Newcomers 🖥
+### Project Owners Can Help Newcomers 🏫
 
 I also want to encourage the owners of open source software projects to **consider the things that can be fixed by someone with relatively little experience in actually using the software.** Do you have a tutorial or usage document that might be out-of-date? This is a perfect thing for a newcomer. The new person can follow the tutorial or usage info and create issues for things that need to be updated or explained more clearly. Once they go through the tutorial, they understand more and can probably start on other kinds of contributions.
 
