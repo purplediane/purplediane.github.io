@@ -34,7 +34,7 @@ When you are at a development sprint, there are many projects that are "beginner
 
 ## Update: Afterwards: June 7 💤🐶
 
-What a whirlwind trip! I am happy to sleep in my own bed and cuddle with my dogs. I'm looking forward to watching lots of PyCon talks on YouTube. **The best part of PyCon for me was the sprints.** I was so nervous about the sprints before the conference. I worried that I wouldn't feel welcome, or that I wouldn't be able to help, or that I would be a drag on others because even though I have programming experience, I'm somewhat new to Python. But **did I mention that I had a great time? And met lots of nice and helpful people?** Oh yeah!
+What a whirlwind trip! I am happy to sleep in my own bed and cuddle with my dogs. I'm looking forward to watching lots of PyCon talks on YouTube. **I loved all of PyCon, but the best part for me was the sprints.** I was so nervous about the sprints before the conference. I worried that I wouldn't feel welcome, or that I wouldn't be able to help, or that I would be a drag on others because even though I have programming experience, I'm somewhat new to Python. But **did I mention that I had a great time and met lots of nice and helpful people?** Oh yeah!
 
 **By the end of the day Sunday, I had 14 pull requests done! Woohoo!** And 4 more in the last 2 days. I'm really getting into [cookecutter-pypackage][cc-pypackage]. Not that I've figured out a package to create with it, but I think it is a really cool project. Heck, all the cookiecutter projects are way cool!
 
@@ -42,7 +42,7 @@ What a whirlwind trip! I am happy to sleep in my own bed and cuddle with my dogs
 
 **Did I mention I had a great time?** I want to thank everyone I met for being friendly and helpful. I haven't been to any conferences in a long time, but this one was fantastic! And a big thanks to all the people who worked so hard to make it all come together so well. You know who you are. **For those going to other conferences, I encourage you to volunteer!** I met some great people during the time I spent volunteering.
 
-Last but definitely not least, **I realized I haven't thanked my friend [Trey Hunner][trey] enough!** If not for his encouragement, I would not have considered going to PyCon. He is an all-around great guy, and a great teacher. Check out [his website][treyhunner], his business [Truthful Technology][tt], and he does [Weekly Python Chats][weekly] that are very informative. I'm very grateful to have gotten to know him through the [San Diego Python][sdpython] organization and meetup. Thanks so much, Trey!
+Last but definitely not least, **I realized I haven't thanked my friend [Trey Hunner][trey] enough!** If not for his encouragement, I would not have considered going to PyCon. He is an all-around great guy, and a great teacher. Check out [his website][treyhunner], his training business [Truthful Technology][tt], and his great [Weekly Python Chats][weekly] that are very informative. I'm very grateful to have gotten to know him through the [San Diego Python][sdpython] organization and meetup. Thanks so much, Trey!
 
 [psf]: https://www.python.org/psf/
 [pycon]: https://us.pycon.org/2016/
