@@ -6,6 +6,8 @@ permalink: /about/
 
 Random technical-related blog posts by Diane Chen.
 
+![Title slide]({{ site.baseurl }}/assets/images/Diane-200.jpeg)
+
 See [My LinkedIn Profile][LinkedIn]
 
 I also like to do sketching and mixed media art: [My Art blog][artblog]
