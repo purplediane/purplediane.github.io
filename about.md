@@ -6,7 +6,7 @@ permalink: /about/
 
 Random technical-related blog posts by Diane Chen.
 
-![Title slide]({{ site.baseurl }}/assets/images/Diane-200.jpeg)
+![Me]({{ site.baseurl }}/assets/images/Diane-200.jpeg)
 
 See [My LinkedIn Profile][LinkedIn]
 
