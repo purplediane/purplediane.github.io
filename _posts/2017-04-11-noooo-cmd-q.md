@@ -3,7 +3,7 @@ layout: post
 title:  "Noooo! Stop CMD-Q Quitting the App"
 date:   2017-04-11 17:20:00
 categories: mac
-excerpt: "How to prevent CMD-Q quitting your app."
+excerpt: "How to prevent CMD-Q quitting your app on a Mac."
 ---
 
 I do my development on a Mac and usually have multiple things going on at one time, so there are often 3 or 5 Atom editor windows open on various desktops, and often even more Terminal windows scattered across the different desktops too. Not to mention at least one Chrome window on each desktop. I very often switch back and forth between windows using `CMD-tab`. However, with the `tab` key being so close to `Q`, I sometimes hit the `Q` instead of the `tab`.
