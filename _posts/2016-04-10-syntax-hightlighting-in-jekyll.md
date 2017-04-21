@@ -40,13 +40,13 @@ code {
 }
 ~~~
 
-This file is now the `_sass/_syntax-highlighting.scss` file. You can find the file in the [source on Github.][purplediane] Feel free to do whatever you want with it.
+This file is now the `_sass/_syntax-highlighting.scss` file. You can find my current version of the file in the [source on Github.][purplediane] Feel free to do whatever you want with it.
 
 In my `_config.yml` file, I left the `markdown: kramdown` as it is and ended up not needing to change anything else. Some places recommended adding `highlighter: rouge`, but I didn't see that it made any difference. Perhaps later I will find a reason to use it.
 
 In my markdown files, I use the "Github-style" fenced code blocks of `~~~language` rather than the *Liquid* commands.
 
-I freely admit I had only a vague idea of what I'm doing here. 😁 If you have a comment or suggestion, and I haven't yet managed to turn on comments here, you can always message me via Twitter.
+I freely admit I have only a vague idea of what I'm doing here. 😁 If you have a comment or suggestion, you can always message me via Twitter.
 
 
 [css-file]: http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html
