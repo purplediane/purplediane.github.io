@@ -102,7 +102,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit / 3 0 $spacing-unit;
 }
 
 .footer-heading {
@@ -145,7 +145,8 @@
     font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+    // I don't know what this does but removing it improves footer
+    // @extend %clearfix;
 }
 
 .footer-col {
@@ -208,7 +209,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 $spacing-unit / 3;
 }
 
 .page-heading {
