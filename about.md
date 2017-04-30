@@ -10,6 +10,8 @@ Random technical-related blog posts by Diane Chen.
 
 See [My LinkedIn Profile][LinkedIn]
 
+![Me]({{ site.baseurl }}/assets/images/MeNChloe.jpg)
+
 Pythonista and instructor. [Teaching Python at UCSD Extension][ucsd]. DM me on Twitter for tutoring in Python! Github and twitter are linked in the footer. I also like to do sketching and mixed media art: [My Art blog][artblog]
 
 [LinkedIn]: https://www.linkedin.com/in/dianedemerschen
