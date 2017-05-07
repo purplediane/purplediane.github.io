@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Python Virtualenvwrapper Tool 👍"
-date:   2016-05-09 16:17:39
+date:   2016-05-02 16:17:39
 category: lightningtalk
 excerpt: "A very simple introduction to the virtualenvwrapper tool."
 ---
-I'd like to introduce you to a cool tool that you can use to manage Python projects, called **[`virtualenvwrapper`][venvwrapper]**.
+I'd like to introduce you to a cool tool that you can use to manage Python project virtual environments, called **[`virtualenvwrapper`][venvwrapper]**.
 
 These are the slides from a Lightning talk I gave at the San Diego Python Meetup in March 2016.
 

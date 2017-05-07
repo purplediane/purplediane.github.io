@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Variables and References in Python"
-date:   2017-05-6 12:01:01
+date:   2017-05-06 12:01:01
 categories: Python
 excerpt: "How does Python handle variables and what are references?"
 ---
@@ -198,11 +198,14 @@ Here are some StackOverflow questions - it is a common Python confusion issue, a
 1. [Function which returns dictionary overwriting all dictionaries][so2]
 1. [Original arguments get overwritten][so3]
 
+It may help you to understand how Python handles references by visualizing what is happening on [Python Tutor][pythontutor]. This is a great website for understanding how Python works.
+
 Hope this helps! If you have comments, please DM me on Twitter!
 
 [thinkpython]: https://www.amazon.com/gp/product/1491939362/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491939362&linkCode=as2&tag=greenteapre01-20&linkId=QGWNVBOEV6JIMH4Y
 [badkangaroo]: http://greenteapress.com/thinkpython2/html/thinkpython2018.html#sec208
 [atom]: https://atom.io/
+[pythontutor]: http://www.pythontutor.com/
 [so1]: http://stackoverflow.com/questions/2465921/how-to-copy-a-dictionary-and-only-edit-the-copy
 [so2]: http://stackoverflow.com/questions/43564986/function-which-returns-dictionary-overwriting-all-dictionaries/
 [so3]: http://stackoverflow.com/questions/20550473/original-arguements-get-overwritten
