@@ -5,13 +5,13 @@ date:   2017-05-06 12:01:01
 categories: Python
 excerpt: "How does Python handle variables and what are references?"
 ---
-<small><span style="color: #555;"><strong>Note: </strong>I started out writing this material for my students after getting questions about the way strange things sometimes happen with lists in Python. After working on it for a while, I decided it made more sense to put it on my blog.</span></small>
+<small><span style="color: #555;"><strong>Note: </strong>I started out writing this material for my students after getting questions about the way strange things sometimes happen with lists in Python. It seemed like it made more sense just to put it on my blog.</span></small>
 
 Sometimes, it's nice to imagine variables as buckets that contain the data in the variable.  In Python, however, variables aren't really the actual objects, but ***references*** to the objects. Think of the variable as a handle of the bucket and not the bucket itself.
 
 Say you have a variable `x` that is a list; when you do `y = x`, you are just making a **new variable reference** to the same list object that `x` points to. Both `x` and `y` are handles of the same bucket.
 
-### Mutable vs. Immutable Objects ###
+### Mutable vs. Immutable Objects 🤔 ###
 
 Lists, dictionaries, and sets are *mutable* objects. That means they can be modified. The basic data types, integers, floats, tuples, and even strings, are all *immutable* data types, and cannot be changed. If you think you are modifying an object of an immutable type, be assured that what really happens is *a new object is created and the variable is changed to reference the new object*.
 
@@ -188,7 +188,7 @@ Let's see a completely contrived example. Consider this function:
 >>>
 ```
 
-Even though it appears that it is modifying a local copy of the input iterable, it is actually modifying one of the items of the input.
+Even though it appears that it is modifying a local copy of the input iterable, it is actually modifying one of the items of the input. It may help you to understand how Python handles references by visualizing what is happening on [Python Tutor][pythontutor]. This is a great website for understanding how Python works.
 
 All this brings up another warning: **Do not use mutable objects such as lists or dictionaries as defaults in functions!** Once they get changed, they don't revert back to an empty default. For example, Allen Downey shows a great example of this problem in his book [Think Python][thinkpython], with the problem [Bad Kangaroo - exercise 2 on this page][badkangaroo]. An empty list is used as the default for a parameter to the `__init__` method. This is OK for the first instance created, but the next instance receives the SAME reference value, and therefore the contents of the lists are the same.
 
@@ -197,8 +197,6 @@ Here are some StackOverflow questions - it is a common Python confusion issue, a
 1. [How to copy a dictionary and only edit the copy][so1]
 1. [Function which returns dictionary overwriting all dictionaries][so2]
 1. [Original arguments get overwritten][so3]
-
-It may help you to understand how Python handles references by visualizing what is happening on [Python Tutor][pythontutor]. This is a great website for understanding how Python works.
 
 Hope this helps! If you have comments, please DM me on Twitter!
 
