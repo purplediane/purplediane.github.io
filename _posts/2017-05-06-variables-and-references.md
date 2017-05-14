@@ -149,7 +149,7 @@ How to create the matrix correctly? We could try:
 [0, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
 
-Um, nope.
+Um, nope. Let's try again.
 
 ```python
 >>> matrix = [[0, 0, 0]] * 3
