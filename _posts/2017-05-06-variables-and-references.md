@@ -52,7 +52,9 @@ True
 [1, 2, 3, 3, 2, 1]
 ```
 
-This is not what most people would expect to happen here; why should `x` change too. Note that the id of `y` did not change with the use of the increment operator. Now let's see what happens here:
+This is not what most people would expect to happen here; why should `x` change too? Note that the id of `y` did not change with the use of the increment operator. So the change to `y` also affected `x` because no new object is created by the increment operator; the underlying object is modified instead.
+
+Now let's see what happens here:
 
  ```python
 >>> x = [1, 2, 3]
@@ -60,12 +62,10 @@ This is not what most people would expect to happen here; why should `x` change 
 >>> y is x
 True
 >>> y = y + [3, 2, 1]
->>> y is x
-False
 >>> y == x
 False
->>> id(x)
-4315345416
+>>> y is x
+False
 >>> id(y)
 4315362824
 >>> x
@@ -83,7 +83,7 @@ True
 False
 ```
 
-Here, `z` and `x` are equal, but they are not referencing the same object. **This is why you should never use the "is" operator to check if things are equal**; because you will probably get the wrong answer! The only time you should use "is" is when you are comparing to the special singleton variables `None`, `True`, and `False`. They are always in the same location, and any variable that is equal to one of these is referencing the same location.
+Here, `z` and `x` are equal, but they are not referencing the same object, because they were created separately. **This is why you should never use the "is" operator to check if things are equal**; you will probably get the wrong answer! The only time you should use "is" is when you are comparing to the special singleton variables `None`, `True`, and `False`. They are always in the same location, and any variable that is equal to one of these is referencing the same location.
 
 If you want to make a *copy* of a list so you can manipulate them independently, use the `list` constructor:
 
@@ -99,7 +99,7 @@ True
 [1, 2, 3]
 ```
 
-In this case, we can increment `y` without affecting `x` because they were never the same object.
+In this case, we can increment `y` without affecting `x` because they were never the same object. If you are working with other mutable types, use their constructors to get a copy.
 
 ### More Examples with Matrices 📌 ###
 
@@ -126,7 +126,7 @@ That looks promising. Let's create our matrix!
 [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 ```
 
-Raise your hand if you like that result! What if we want to change a value in the matrix? How about changing the middle value to 1:
+Raise your hand if you like that result! What happens if we want to change a value in the matrix? Let's try changing the middle value to 1:
 
 ```python
 >>> matrix[1][1] = 1
@@ -139,7 +139,7 @@ So let's see what `matrix` is now:
 [[0, 1, 0], [0, 1, 0], [0, 1, 0]]
 ```
 
-Wait, what? How did this happen? It's that crazy old bucket vs. reference thing again. When we created `matrix`, the system created 3 references to the list `[0] * 3`. So when we changed the middle value, it appears to change all 3 of the middle lists, but really there is only one physical list, with 3 references to it.
+Wait, what? How did this happen? It's that crazy bucket vs. reference thing again. When we created `matrix`, the system created 3 references to the list `[0] * 3`. So when we changed the middle value, it appears to change the middle value of all 3 lists, but really there is only one list, with 3 references to it.
 
 How to create the matrix correctly? We could try:
 
@@ -147,6 +147,11 @@ How to create the matrix correctly? We could try:
 >>> matrix = [0, 0, 0] * 3
 >>> matrix
 [0, 0, 0, 0, 0, 0, 0, 0, 0]
+```
+
+Um, nope.
+
+```python
 >>> matrix = [[0, 0, 0]] * 3
 >>> matrix
 [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
@@ -155,7 +160,7 @@ How to create the matrix correctly? We could try:
 [[0, 1, 0], [0, 1, 0], [0, 1, 0]]
 ```
 
-But that doesn't work either! To create the matrix correctly, we can use a list comprehension:
+But that doesn't work either! It is the same as the first attempt we made. To create the matrix correctly, we can use a list comprehension:
 
 ```python
 >>> matrix = [[0] * 3 for n in range(3)]
@@ -180,6 +185,7 @@ Let's see a completely contrived example. Consider this function:
 >>> def changeit(iterable):
 ...     my_vars = iterable
 ...     my_vars[0] = 1.234
+...     # do some other stuff, then end
 ...
 >>> nums = [1, 2, 3, 4]
 >>> changeit(nums)
@@ -188,7 +194,7 @@ Let's see a completely contrived example. Consider this function:
 >>>
 ```
 
-Even though it appears that it is modifying a local copy of the input iterable, it is actually modifying one of the items of the input. It may help you to understand how Python handles references by visualizing what is happening on [Python Tutor][pythontutor]. This is a great website for understanding how Python works.
+Even though it appears that it is modifying a local copy of the input iterable, it is actually modifying one of the items of the input. It may help you to understand how Python handles references by visualizing what is happening on [Python Tutor][pythontutor]. This is a **great** website for understanding how Python works.
 
 All this brings up another warning: **Do not use mutable objects such as lists or dictionaries as defaults in functions!** Once they get changed, they don't revert back to an empty default. For example, Allen Downey shows a great example of this problem in his book [Think Python][thinkpython], with the problem [Bad Kangaroo - exercise 2 on this page][badkangaroo]. An empty list is used as the default for a parameter to the `__init__` method. This is OK for the first instance created, but the next instance receives the SAME reference value, and therefore the contents of the lists are the same.
 
