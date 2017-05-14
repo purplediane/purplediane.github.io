@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Variables and References in Python"
-date:   2017-05-06 12:01:01
+date:   2017-05-14 12:01:01
 categories: Python
 excerpt: "How does Python handle variables and what are references?"
 ---
