@@ -101,7 +101,7 @@ True
 
 In this case, we can increment `y` without affecting `x` because they were never the same object.
 
-### More Examples with Matrices ###
+### More Examples with Matrices 📌 ###
 
 A matrix is a 2-dimensional list of numbers. In Python, we can use lists of lists to represent them. For example:
 
