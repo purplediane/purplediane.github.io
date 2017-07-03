@@ -7,7 +7,7 @@ excerpt: "How does Python handle variables and what are references?"
 ---
 <small><span style="color: #555;"><strong>Note: </strong>I started out writing this material for my students after getting questions about the way strange things sometimes happen with lists in Python. It seemed like it made more sense just to put it in a blog post.</span></small>
 
-Sometimes, it's nice to imagine variables as buckets that contain the data in the variable.  In Python, however, variables aren't really the actual objects (at least not the ones we are interested in), but ***references*** to the objects. Think of the variable as a rope attached to the handle of the bucket, rather than the bucket itself. Each variable has only one rope, but as we will see, buckets can have many ropes attached.
+Sometimes, it's nice to imagine variables as buckets that contain the data in the variable.  In Python, however, variables aren't really the actual objects (at least not the ones we are interested in), but ***references*** to the objects. Think of the variable as having a rope that is attached to the handle of the bucket, rather than the bucket itself. Each variable has only one rope, but as we will see, buckets can have many ropes attached.
 
 Say you have a variable `x` that is a list; when you do `y = x`, you are just making a **new variable reference** to the same list object that `x` points to. Both `x` and `y` are ropes attached to the handle of the same bucket.
 
@@ -136,7 +136,6 @@ Hope this helps! If you have comments, please DM me on Twitter!
 
 [thinkpython]: https://www.amazon.com/gp/product/1491939362/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491939362&linkCode=as2&tag=greenteapre01-20&linkId=QGWNVBOEV6JIMH4Y
 [badkangaroo]: http://greenteapress.com/thinkpython2/html/thinkpython2018.html#sec208
-[atom]: https://atom.io/
 [pythontutor]: http://www.pythontutor.com/
 [so1]: http://stackoverflow.com/questions/2465921/how-to-copy-a-dictionary-and-only-edit-the-copy
 [so2]: http://stackoverflow.com/questions/43564986/function-which-returns-dictionary-overwriting-all-dictionaries/
