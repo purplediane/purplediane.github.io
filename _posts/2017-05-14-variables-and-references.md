@@ -126,7 +126,15 @@ Even though it appears that it is modifying a local copy of the input sequence, 
 
 All this brings up another warning: **Do not use mutable objects such as lists or dictionaries as defaults in functions!** Once they get changed, they don't revert back to an empty default. For example, Allen Downey shows a great example of this problem in his book [Think Python][thinkpython], with the problem [Bad Kangaroo - exercise 2 on this page][badkangaroo]. An empty list is used as the default for a parameter to the `__init__` method. This is OK for the first instance created, but the next instance receives the SAME reference value, and therefore the contents of the lists are the same.
 
-Here are some StackOverflow questions - it is a common Python confusion issue, and there are many more:
+### Resources ✏️
+
+(Edited July 2017) Somehow I hadn't found these excellent videos before writing this blog post. They both expand on the same ideas about the issues of variables, naming, mutability, etc.
+
+A video by Brandon Rhodes from PyOhio 2011: [Names, Objects, and Plummeting From The Cliff][Rhodes]. It's a little dated, but the concepts certainly still apply.
+
+And this video is from PyCon 2015 by Ned Batchelder: [Facts and Myths about Python names and values][py_names]
+
+Here are some StackOverflow questions, as it is a common Python confusion issue, and there are many more:
 
 1. [How to copy a dictionary and only edit the copy][so1]
 1. [Function which returns dictionary overwriting all dictionaries][so2]
@@ -137,6 +145,8 @@ Hope this helps! If you have comments, please DM me on Twitter!
 [thinkpython]: https://www.amazon.com/gp/product/1491939362/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491939362&linkCode=as2&tag=greenteapre01-20&linkId=QGWNVBOEV6JIMH4Y
 [badkangaroo]: http://greenteapress.com/thinkpython2/html/thinkpython2018.html#sec208
 [pythontutor]: http://www.pythontutor.com/
+[py_names]: http://pyvideo.org/pycon-us-2015/facts-and-myths-about-python-names-and-values.html
+[Rhodes]: http://pyvideo.org/pyohio-2011/pyohio-2011-names-objects-and-plummeting-from.html
 [so1]: http://stackoverflow.com/questions/2465921/how-to-copy-a-dictionary-and-only-edit-the-copy
 [so2]: http://stackoverflow.com/questions/43564986/function-which-returns-dictionary-overwriting-all-dictionaries/
 [so3]: http://stackoverflow.com/questions/20550473/original-arguements-get-overwritten
