@@ -2,7 +2,7 @@
 layout: post
 title:  "Variables and References in Python"
 date:   2017-05-14 12:01:01
-categories: Python
+categories: python
 excerpt: "How does Python handle variables and what are references?"
 ---
 <small><span style="color: #555;"><strong>Note: </strong>I started out writing this material for my students after getting questions about the way strange things sometimes happen with lists in Python. It seemed like it made more sense just to put it in a blog post.</span></small>
