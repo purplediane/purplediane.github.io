@@ -2,7 +2,7 @@
 layout: post
 title:  "PyCon 2016 Open Source Development Sprints"
 date:   2016-06-03 17:20:00
-categories: jekyll
+categories: python
 excerpt: "How I submitted 14 commits to open source projects in 4 days at my first PyCon sprints. And 4 more in the next 2 days!"
 ---
 
