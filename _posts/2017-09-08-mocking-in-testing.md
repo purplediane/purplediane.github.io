@@ -3,7 +3,7 @@ layout: post
 title:  "Mock Objects in testing"
 date:   2017-09-08 12:01:01
 categories: python
-excerpt: "In testing, what is Mocking?"
+excerpt: "In testing, what are Mocking and Mock Objects?"
 ---
 
 What is *mocking* in testing? Mock objects are simulated objects that mimic the behavior of real objects in controlled ways. During testing, the mock objects are used to replace dependencies (other APIs or interfaces) that cannot be controlled under normal testing conditions, or would be too resource-heavy for reasonable testing purposes.
