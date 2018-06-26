@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.project
+Notes.md
+Notes.pdf
+.DS_Store
