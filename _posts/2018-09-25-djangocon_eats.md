@@ -23,7 +23,7 @@ And of course, a Starbuck's Coffee
 
 [Subway Sandwiches][subway]. 🍞 🍴 Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options. PurpleDiane says *Great for quick sandwiches.*
 
-[IHOP: International House of Pancakes][ihop]. 🍴 🍳 Breakfast all day, and American Diner fare. PurpleDiane would rather eat at Broken Yolk (see below).
+[IHOP: International House of Pancakes][ihop]. 🍴 🍳 Breakfast all day, and American Diner fare. PurpleDiane says *I would rather eat at Broken Yolk (see below), but I haven't eaten at IHOP in 10+ years.*
 
 [Oggi's Pizza, Brewing and Sports Bar][oggis]. 🍕 🍺 🍝 Local chain serves pasta, handcrafted pizza & draft beers in a brick-heavy, sports bar setting. Order online for delivery.
 
@@ -39,7 +39,7 @@ Bit more of a walk up Fenton Parkway:
 
 One stop **West** of the Rio Vista stop on the Trolley at the Mission Valley Center Station:
 
-Very Close:
+Very close to the trolley stop:
 
 [Sammy's Woodfired Pizza][sammys]. 🍕 🌮 Full-service chain with a contemporary feel serves unique thin-crust pies, small plates & wine. PurpleDiane says *Try the Duck Tacos and Crispy Brussel Sprouts appetizers. Quinoa salad also delicious. I've never actually had pizza here.*
 
