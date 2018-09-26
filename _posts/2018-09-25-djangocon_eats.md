@@ -3,11 +3,11 @@ layout: post
 title:  "Where to eat at DjangoCon San Diego"
 date:   2018-09-25 15:00:00
 categories: python
-excerpt: "Places to eat while at DjangoCon in San Diego, most that are easy to get to."
+excerpt: "Places to eat while at DjangoCon in San Diego, many that are close to the hotel."
 ---
 
 Because the DjangoCon hotel is very close to the Rio Vista Trolley stop, I thought I would give some suggestions for food, starting with those that are reasonably easy to get to on the trolley.
-After 7 or 8 PM, the trolley runs only once per half hour, so you may end up wanting to use Lyft to get back if you used the trolley to get to your destination.
+After 7 or 8 PM, the trolley runs only once per half hour, so you may end up wanting to use Lyft to get back if you used the trolley to get to your destination. Sigh... San Diego has a long way to go for good mass transit.
 
 This got kind of out of control as I keep adding to it based on places I love and what others have told me. Hope you enjoy your visit to San Diego!
 
