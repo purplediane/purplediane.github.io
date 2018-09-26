@@ -6,6 +6,8 @@ categories: python
 excerpt: "Places to eat while at DjangoCon in San Diego, many that are close to the hotel."
 ---
 
+### 🍴 🍔 🍕 🌮 🐟 🐂 🍤 🍦 🍺 🍨 🍹 🍗 🍰 🌶 🍣
+
 Because the DjangoCon hotel is very close to the Rio Vista Trolley stop, I thought I would give some suggestions for food, starting with those that are reasonably easy to get to on the trolley.
 After 7 or 8 PM, the trolley runs only once per half hour, so you may end up wanting to use Lyft to get back if you used the trolley to get to your destination. Sigh... San Diego has a long way to go for good mass transit.
 
@@ -15,23 +17,23 @@ This got kind of out of control as I keep adding to it based on places I love an
 ### Fenton Marketplace
 One stop **East** from the Rio Vista stop on the Trolley, at the Fenton Parkway stop; in the [Fenton Marketplace][fenton]:
 
-[Cold Stone Creamery][coldstone]. Ice cream chain offering design-your-own creations hand-mixed on a granite slab, plus shakes & more. PurpleDiane says *Yum, of course!*
+[Cold Stone Creamery][coldstone]. 🍨 🍦 Ice cream chain offering design-your-own creations hand-mixed on a granite slab, plus shakes & more. PurpleDiane says *Yum, of course!*
 
 And of course, a Starbuck's Coffee
 
-[Subway Sandwiches][subway]. Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options. PurpleDiane says *Great for quick sandwiches.*
+[Subway Sandwiches][subway]. 🍞 🍴 Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options. PurpleDiane says *Great for quick sandwiches.*
 
-[IHOP: International House of Pancakes][ihop]. Breakfast all day, and American Diner fare. PurpleDiane would rather eat at Broken Yolk (see below).
+[IHOP: International House of Pancakes][ihop]. 🍴 🍳 Breakfast all day, and American Diner fare. PurpleDiane would rather eat at Broken Yolk (see below).
 
-[Oggi's Pizza, Brewing and Sports Bar][oggis]. Local chain serves pasta, handcrafted pizza & draft beers in a brick-heavy, sports bar setting. Order online for delivery.
+[Oggi's Pizza, Brewing and Sports Bar][oggis]. 🍕 🍺 🍝 Local chain serves pasta, handcrafted pizza & draft beers in a brick-heavy, sports bar setting. Order online for delivery.
 
-[Luna Grill][luna]. Kebabs, salads & other Mediterranean eats offered in a relaxed, counter-serve setting.
+[Luna Grill][luna]. 🍴 🍢 Kebabs, salads & other Mediterranean eats offered in a relaxed, counter-serve setting.
 
 Bit more of a walk up Fenton Parkway:
 
-[Primo's Mexican Food and Bar][primos]. A variety of Mexican food. Menu shows breakfast food available all day, though they open at 10. Yelp says Taco Tuesday is $10 All you can eat, but I can't find it on the website, so call them first.
+[Primo's Mexican Food and Bar][primos]. 🌮 🌶 A variety of Mexican food. Menu shows breakfast food available all day, though they open at 10. Yelp says Taco Tuesday is $10 All you can eat, but I can't find it on the website, so call them first.
 
-[Islands Restaurant][islands]. Beachy burger chain also serving Mexican eats & tropical drinks in laid-back environs. "Great HD TVs for sports viewing or watching Islands surf videos." Happy hour specials weekdays from 3pm to 7pm.
+[Islands Restaurant][islands]. 🍔 🍹 Beachy burger chain also serving Mexican eats & tropical drinks in laid-back environs. "Great HD TVs for sports viewing or watching Islands surf videos." Happy hour specials weekdays from 3pm to 7pm.
 
 ### Mission Valley Center Area
 
@@ -39,84 +41,103 @@ One stop **West** of the Rio Vista stop on the Trolley at the Mission Valley Cen
 
 Very Close:
 
-[Sammy's Woodfired Pizza][sammys]. Full-service chain with a contemporary feel serves unique thin-crust pies, small plates & wine. PurpleDiane says *Try the Duck Tacos and Crispy Brussel Sprouts appetizers. Quinoa salad also delicious. I've never actually had pizza here.*
+[Sammy's Woodfired Pizza][sammys]. 🍕 🌮 Full-service chain with a contemporary feel serves unique thin-crust pies, small plates & wine. PurpleDiane says *Try the Duck Tacos and Crispy Brussel Sprouts appetizers. Quinoa salad also delicious. I've never actually had pizza here.*
 
-[California Fish Grill][fishgrill]. Relaxed chain serving fried & charbroiled seafood, plus chicken & fish tacos, beer & wine. PurpleDiane says *It's all yummy and super fresh.*
+[California Fish Grill][fishgrill]. 🍤 🐟 Relaxed chain serving fried & charbroiled seafood, plus chicken & fish tacos, beer & wine. PurpleDiane says *It's all yummy and super fresh.*
 
 Easy walk in the parking lot:
 
-[On The Border Mexican Grill & Cantina][border]. Casual restaurant chain featuring Tex-Mex standards such as fajitas, burritos & grilled meats. PurpleDiane says *Good for typical Americanized Mexican food.*
+[On The Border Mexican Grill & Cantina][border]. 🌶 🌮 Casual restaurant chain featuring Tex-Mex standards such as fajitas, burritos & grilled meats. PurpleDiane says *Good for typical Americanized Mexican food.*
 
 More of a walk across the street is Mission Valley Center shopping mall:
 
-[Onami Seafood Buffet][onami]. Spacious, kid-friendly Japanese restaurant with an all-you-can-eat sushi, BBQ & noodle buffet.
+[Onami Seafood Buffet][onami]. 🐟 🍆 🍣 Spacious, kid-friendly Japanese restaurant with an all-you-can-eat sushi, BBQ & noodle buffet.
 
-[Tender Greens Mission Valley][greens]. Modern, cafeteria-style chain serving area sourced, globally influenced plates, sandwiches & salads.
+[Tender Greens Mission Valley][greens]. 🍳 🍗 Modern, cafeteria-style chain serving area sourced, globally influenced plates, sandwiches & salads.
 
-[Ruby's Diner][rubys]. A '40s-style chain diner serving breakfast & American comfort fare, salads & shakes.
+[Ruby's Diner][rubys]. 🍔 🍟 A '40s-style chain diner serving breakfast & American comfort fare, salads & shakes.
 
-[Outback Steakhouse][outback]. Boisterous Australian-themed chain serving steaks, seafood & other hearty steakhouse fare. PurpleDiane says *Alice Springs Chicken is my favorite.*
+[Outback Steakhouse][outback]. 🍗 🐂 Boisterous Australian-themed chain serving steaks, seafood & other hearty steakhouse fare. PurpleDiane says *Alice Springs Chicken is my favorite.*
 
-Even more of a walk through the mall and parking lot to get to [The Broken Yolk][broken] (great breakfast/lunch only) and [In-N-Out Burger][innout] (West coast's quintessential burger shop).
+Even more of a walk through the mall and parking lot to get to [The Broken Yolk][broken] 🍳 (great breakfast/lunch only) and [In-N-Out Burger][innout] 🍔 🍟 (West coast's quintessential burger shop).
 
 ### Fashion Valley Center
 Three stops **West** of Rio Vista stop on the Trolley at the Fashion Valley Transit Center Station:
 
-Lots of shopping and a food court for casual dining, contains a [Rubio's Coastal Grill][rubios], PurpleDiane's favorite fast food. Mall also contains an [Apple Store][apple] and [Microsoft Store][microsoft].
+Lots of shopping and a food court for casual dining, contains a [Rubio's Coastal Grill][rubios] 🐟 🌮, PurpleDiane's favorite fast food.
+Mall also contains an [Apple Store][apple] 🍎 and [Microsoft Store][microsoft].
 
-[California Pizza Kitchen][capizza]. Chain eatery serving up inventive pizzas plus pastas & salads in a modern setting.
+[California Pizza Kitchen][capizza]. 🍕 Chain eatery serving up inventive pizzas plus pastas & salads in a modern setting.
 
-[Cheesecake Factory][cheesecake]. American chain restaurant offering sizable portions from a vast menu including signature cheesecake. PurpleDiane says *OMG, the Cheesecake!*.
+[Cheesecake Factory][cheesecake]. 🍰 American chain restaurant offering sizable portions from a vast menu including signature cheesecake.
+PurpleDiane says *OMG, the Cheesecake!*.
 
 Bit of a walk at the other end of Fashion Valley's parking lot:
-[P.F. Chiang's][pfc]. Family-friendly chain offering creative takes on Chinese fare in a striking space. PurpleDiane says *Take a car/Lyft to some of the Chinese restaurants listed below.*
+[P.F. Chiang's][pfc]. 🍜 Family-friendly chain offering creative takes on Chinese fare in a striking space.
+PurpleDiane says *Take a car/Lyft to some of the Chinese restaurants listed below.*
 
 ### Old Town area
 
 San Diego's Old Town is 5 stops **west** from the Rio Vista trolley stop.
 This is the old historic district; largely a tourist trap, however, it's still a fun place to visit.
 
-[Barra Barra Saloon][barra] Great Mexican food and large selection of tequila.
+[Barra Barra Saloon][barra] 🌶 🌮 Great Mexican food and large selection of tequila.
 
-[Fiesta De Reyes][fiesta] and [Casa De Reyes][casa] Great Mexican food, often with live music. Fiesta is outside on the patio, Casa is inside.
+[Fiesta De Reyes][fiesta] and [Casa De Reyes][casa] 🌮 🌶 🌯 Great Mexican food, often with live music.
+Fiesta is outside on the patio, Casa is inside.
+PurpleDiane has always enjoyed eating at both places.
 
-Not close to Trolley stop, but worth mentioning:
+### Places to drive/Lyft to 🚗 🚕
 
-[El Agave][elagave] Not just typical Mexican food, this place has a Tequila Museum and more than 2000 varieties of tequila. PurpleDiane enjoyed the food and margaritas.
+[El Agave][elagave] 🌶 🍸 In Old Town area, but not close to trolley.
+Not just typical Mexican food, this place has a Tequila Museum and more than 2000 varieties of tequila.
+PurpleDiane enjoyed the food and margaritas.
 
-[Rockin' Baja Lobster Cantina][rockin] Very fun, upbeat place. Might be kind of loud, depending on which room you are in. PurpleDiane had a fun time there.
+[Rockin' Baja Lobster Cantina][rockin] 🦀 🌮 🌶 In Old Town area, but not close to trolley.
+Very fun, upbeat place. Might be kind of loud, depending on which room you are in.
+PurpleDiane had a fun time there.
 
-### Places to drive/Lyft to
+[Eclipse Chocolate][eclipse] 🍫 ☕️ In South Park. Delicious food and lots of chocolate options.
+PurpleDiane says *Super Yum! If you love chocolate, you'll love this place!*
+(Thanks to @hayleydenb for the reminder, I don't know how I forgot to add it.)
 
-[Eclipse Chocolate][eclipse] In South Park. Delicious food and lots of chocolate options. PurpleDiane says *Super Yum! If you love chocolate, you'll love this place!* (Thanks to @hayleydenb for the reminder, I don't know how I forgot to add it.)
+Some of the best Chinese food is in the Kearney Mesa area.
+PurpleDiane recommends the first 3 places for dinner or Dim Sum ( Dim Sum is lunch only):
 
-Some of the best Chinese food is in the Kearney Mesa area. PurpleDiane recommends the first 3 places for dinner or Dim Sum (lunch only):
+[Emerald Seafood Chinese][emerald] 🏮 🐟 🍚 PurpleDiane has been going here for ~~mumble~~ many years.
+Great dim sum, roast duck and (of course) seafood.
 
-[Emerald Seafood Chinese][emerald] PurpleDiane has been going here for ~~mumble~~ many years. Great dim sum, roast duck and (of course) seafood.
+[Jasmine Seafood Chinese][jasmine] 🏮 🐟 🍚 Excellent Chinese food, including dim sum from carts.
 
-[Jasmine Seafood Chinese][jasmine] Excellent Chinese food, including dim sum from carts.
-
-[China Max][chinamax] has dim sum, but it's small so no carts, you order from the menu. Great food though.
+[China Max][chinamax] 🏮 🐟 🍚 Has dim sum, but the restaurant is small so no carts, you order from the menu.
+Great food though.
 
 Other Chinese/Asian restaurants in Kearney Mesa:
 
-[Kura Revolving Sushi Bar][kura] This place is very fun, but there is usually a long line, so put your name on their list online.
+[Kura Revolving Sushi Bar][kura] 🐟 🍣 This place is very fun, but there is usually a long line, so put your name on their list online.
 
-[Dumpling Inn][dumpling] PurpleDiane's favorite place to have Chinese dumplings. Potstickers, Pork and Chive dumplings and Xiao Long Bao are fantastic. They also have vegetarian dumplings.
+[Dumpling Inn][dumpling] 🏮 🍴 PurpleDiane's favorite place to have Chinese dumplings.
+Potstickers, Pork and Chive dumplings and Xiao Long Bao are fantastic.
+They also have vegetarian dumplings.
 
-[Tasty Noodle House][noodle] Lots of choices of noodle dishes and other Chinese food.
+[Tasty Noodle House][noodle] 🍜 Lots of choices of noodle dishes and other Chinese food.
 
-[Spicy City][spicy] Szechuan style Chinese food.
+[Spicy City][spicy] 🏮 🍚 🌶 Szechuan style Chinese food.
 
-[Mignon Pho and Grill][mignon] Fresh homemade Vietnamese food.
+[Mignon Pho and Grill][mignon] 🍜 🇻🇳 Fresh homemade Vietnamese food.
 
 ### Other parts of town
 
-[Apollonia Greek Bistro][apollonia] In the University Town Center area. Very nice Greek restaurant. PurpleDiane says *Try the Rigonato, Cretan Salmon or Gyros plate. The Galacto-Boureko dessert is totally YUM. My friends from Greece love the food here.*
+[Apollonia Greek Bistro][apollonia] 🍗 🍴 🇬🇷 In the University Town Center area. Very nice Greek restaurant.
+PurpleDiane says *Try the Rigonato, Cretan Salmon or Gyros plate. The Galacto-Boureko dessert is totally YUM. My friends from Greece love the food here.*
 
-[Tom Ham's Lighthouse][tomham] On Harbor Island, excellent food and views of San Diego Harbor and skyline. PurpleDiane says *Not cheap, but I've never had a bad meal here. Lovely views, great service, and nautical ambiance make for an enjoyable evening.*
+[Tom Ham's Lighthouse][tomham] ⛵️ 🍗 🍴 On Harbor Island, excellent food and views of San Diego Harbor and skyline.
+PurpleDiane says *Not cheap, but I've never had a bad meal here. Lovely views, great service, and nautical ambiance make for an enjoyable evening.*
 
-[Top of the Market][top] On the harbor with spectacular views, wonderful seafood. More expensive than most, but food, location and service are tops. It's next to the [USS Midway aircraft carrier][midway] and the excellent [Maritime Museum][maritime]. PurpleDiane says *Go for the Happy Hour 3 - 6 PM*
+[Top of the Market][top] ⛵️ 🍗 🍴 On the harbor with spectacular views, wonderful seafood.
+More expensive than most, but food, location and service are tops.
+It's next to the [USS Midway aircraft carrier][midway] and the excellent [Maritime Museum][maritime].
+PurpleDiane says *Go for the Happy Hour 3 - 6 PM*
 
 Also, my friend [Anna][ossanna] wrote a [blog post][annablog] about what she likes about San Diego.
 I'm not sure I agree with her comment that we have a "decent public transit system" - I don't think it's very good at all, but I live in the 'burbs where it's pretty much impossible to live without a car.
