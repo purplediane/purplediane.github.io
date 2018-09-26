@@ -119,6 +119,14 @@ Other Chinese/Asian restaurants in Kearney Mesa:
 [Top of the Market][top] On the harbor with spectacular views, wonderful seafood. More expensive than most, but food, location and service are tops. It's next to the [USS Midway aircraft carrier][midway] and the excellent [Maritime Museum][maritime]. PurpleDiane says *Go for the Happy Hour 3 - 6 PM*
 
 Also, my friend [Anna][ossanna] wrote a [blog post][annablog] about what she likes about San Diego.
+I'm not sure I agree with her comment that we have a "decent public transit system" - I don't think it's very good at all, but I live in the 'burbs where it's pretty much impossible to live without a car.
+
+If you do get a trolley pass, it is also good on the bus system.
+You can buy the pass from the machine at the trolley stop.
+First time is $7, but $2 is for the Compass card, so you can reload the card for $5 per day.
+Theoretically they have [multi-day passes][passes] at a savings, but I don't know if you can buy them from the machines at the trolley stop.
+I will try to find out and update this post.
+I just discovered [they have an app][compass], but I have no experience with it.
 
 [apple]: https://www.apple.com/retail/fashionvalley/
 [annablog]: http://anna-oz.tumblr.com/post/171736615240/san-diego-my-favorites
@@ -131,6 +139,7 @@ Also, my friend [Anna][ossanna] wrote a [blog post][annablog] about what she lik
 [cheesecake]: http://locations.thecheesecakefactory.com/ca/san-diego-28.html
 [chinamax]: http://www.chinamaxsd.com/
 [coldstone]: https://www.coldstonecreamery.com/locator/index.php?brand=cs&store=20175
+[compass]: https://sdmts.com/fares-passes/compass-cloud
 [dumpling]: http://www.dumplinginn.com/
 [eclipse]: https://www.eclipsechocolate.com/
 [elagave]: http://www.elagave.com/
@@ -156,6 +165,7 @@ Also, my friend [Anna][ossanna] wrote a [blog post][annablog] about what she lik
 [outback]: https://www.outback.com/locations/ca/mission-valley
 [pfc]: https://www.pfchangs.com/locations/us/ca/san-diego/7077-friars-rd/7200-san-diego.html
 [ossanna]: https://twitter.com/OssAnna16
+[passes]: https://sdmts.com/fares-passes
 [primos]: http://primosmex.com/primos-mex-and-bar/
 [rockin]: https://rockinbaja.com/old-town/
 [rubios]: https://www.rubios.com/
