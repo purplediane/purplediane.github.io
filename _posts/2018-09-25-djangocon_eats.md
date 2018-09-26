@@ -90,7 +90,7 @@ Not close to Trolley stop, but worth mentioning:
 
 [Eclipse Chocolate][eclipse] In South Park. Delicious food and lots of chocolate options. PurpleDiane says *Super Yum! If you love chocolate, you'll love this place!* (Thanks to @hayleydenb for the reminder, I don't know how I forgot to add it.)
 
-Best Chinese food is in the Kearney Mesa area. PurpleDiane recommends the first 3 places for dinner or Dim Sum (lunch only):
+Some of the best Chinese food is in the Kearney Mesa area. PurpleDiane recommends the first 3 places for dinner or Dim Sum (lunch only):
 
 [Emerald Seafood Chinese][emerald] PurpleDiane has been going here for ~~mumble~~ many years. Great dim sum, roast duck and (of course) seafood.
 
