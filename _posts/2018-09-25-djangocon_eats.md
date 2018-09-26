@@ -118,7 +118,10 @@ Other Chinese/Asian restaurants in Kearney Mesa:
 
 [Top of the Market][top] On the harbor with spectacular views, wonderful seafood. More expensive than most, but food, location and service are tops. It's next to the [USS Midway aircraft carrier][midway] and the excellent [Maritime Museum][maritime]. PurpleDiane says *Go for the Happy Hour 3 - 6 PM*
 
+Also, my friend [Anna][ossanna] wrote a [blog post][annablog] about what she likes about San Diego.
+
 [apple]: https://www.apple.com/retail/fashionvalley/
+[annablog]: http://anna-oz.tumblr.com/post/171736615240/san-diego-my-favorites
 [apollonia]: http://www.apolloniabistro.com/
 [barra]: https://barrabarrasaloon.com/
 [border]: http://otbsd.com/
@@ -152,7 +155,7 @@ Other Chinese/Asian restaurants in Kearney Mesa:
 [onami]: https://www.facebook.com/onamitora/
 [outback]: https://www.outback.com/locations/ca/mission-valley
 [pfc]: https://www.pfchangs.com/locations/us/ca/san-diego/7077-friars-rd/7200-san-diego.html
-
+[ossanna]: https://twitter.com/OssAnna16
 [primos]: http://primosmex.com/primos-mex-and-bar/
 [rockin]: https://rockinbaja.com/old-town/
 [rubios]: https://www.rubios.com/
