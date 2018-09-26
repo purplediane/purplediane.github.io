@@ -62,11 +62,11 @@ Even more of a walk through the mall and parking lot to get to [The Broken Yolk]
 ### Fashion Valley Center
 Three stops **West** of Rio Vista stop on the Trolley at the Fashion Valley Transit Center Station:
 
-Lots of shopping and a food court for casual dining, contains a [Rubio's Coastal Grill][rubios], PurpleDiane's favorite fast food. Contains an [Apple Store][apple] and [Microsoft Store][microsoft].
+Lots of shopping and a food court for casual dining, contains a [Rubio's Coastal Grill][rubios], PurpleDiane's favorite fast food. Mall also contains an [Apple Store][apple] and [Microsoft Store][microsoft].
 
 [California Pizza Kitchen][capizza]. Chain eatery serving up inventive pizzas plus pastas & salads in a modern setting.
 
-[Cheesecake Factory][cheesecake]. American chain restaurant offering sizable portions from a vast menu including signature cheesecake. PurpleDiane says *OMG, Cheesecake!*.
+[Cheesecake Factory][cheesecake]. American chain restaurant offering sizable portions from a vast menu including signature cheesecake. PurpleDiane says *OMG, the Cheesecake!*.
 
 Bit of a walk at the other end of Fashion Valley's parking lot:
 [P.F. Chiang's][pfc]. Family-friendly chain offering creative takes on Chinese fare in a striking space. PurpleDiane says *Take a car/Lyft to some of the Chinese restaurants listed below.*
@@ -87,6 +87,8 @@ Not close to Trolley stop, but worth mentioning:
 [Rockin' Baja Lobster Cantina][rockin] Very fun, upbeat place. Might be kind of loud, depending on which room you are in. PurpleDiane had a fun time there.
 
 ### Places to drive/Lyft to
+
+[Eclipse Chocolate][eclipse] In South Park. Delicious food and lots of chocolate options. PurpleDiane says *Super Yum! If you love chocolate, you'll love this place!* (Thanks to @hayleydenb for the reminder, I don't know how I forgot to add it.)
 
 Best Chinese food is in the Kearney Mesa area. PurpleDiane recommends the first 3 places for dinner or Dim Sum (lunch only):
 
@@ -127,6 +129,7 @@ Other Chinese/Asian restaurants in Kearney Mesa:
 [chinamax]: http://www.chinamaxsd.com/
 [coldstone]: https://www.coldstonecreamery.com/locator/index.php?brand=cs&store=20175
 [dumpling]: http://www.dumplinginn.com/
+[eclipse]: https://www.eclipsechocolate.com/
 [elagave]: http://www.elagave.com/
 [emerald]: http://www.sdchinesecuisine.com/
 [fenton]: https://www.google.com/maps/place/Fenton+Marketplace/@32.7800187,-117.128956,18z/data=!4m5!3m4!1s0x80d95513ca24137f:0x3a6ed86b792778c6!8m2!3d32.7813394!4d-117.12787
