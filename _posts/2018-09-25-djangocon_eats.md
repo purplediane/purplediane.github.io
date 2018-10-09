@@ -55,8 +55,6 @@ More of a walk across the street is Mission Valley Center shopping mall:
 
 [Tender Greens Mission Valley][greens]. 🍳 🍗 Modern, cafeteria-style chain serving area sourced, globally influenced plates, sandwiches & salads.
 
-[Ruby's Diner][rubys]. 🍔 🍟 A '40s-style chain diner serving breakfast & American comfort fare, salads & shakes.
-
 [Outback Steakhouse][outback]. 🍗 🐂 Boisterous Australian-themed chain serving steaks, seafood & other hearty steakhouse fare. PurpleDiane says *Alice Springs Chicken is my favorite.*
 
 Even more of a walk through the mall and parking lot to get to [The Broken Yolk][broken] 🍳 (great breakfast/lunch only) and [In-N-Out Burger][innout] 🍔 🍟 (West coast's quintessential burger shop).
