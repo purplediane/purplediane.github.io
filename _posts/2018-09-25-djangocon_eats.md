@@ -74,12 +74,15 @@ PurpleDiane says *OMG, the Cheesecake!*.
 
 Bit of a walk at the other end of Fashion Valley's parking lot:
 [P.F. Chiang's][pfc]. 🍜 Family-friendly chain offering creative takes on Chinese fare in a striking space.
-PurpleDiane says *Take a car/Lyft to some of the Chinese restaurants listed below.*
+PurpleDiane says *Take a car/Lyft to some of the Chinese restaurants listed below.*<br />
+**Edited:** I have to admit I hadn't eaten at P.F. Chang's in a very long time, and I was not impressed at that time.
+Some friends who are fans were unhappy that I implied the food wasn't good and took me to dinner there.
+While the other Chinese places I list below are more authentic, I have to admit that the food there now is very very good, so don't reject it on my behalf!
 
 ### Old Town area
 
 San Diego's Old Town is 5 stops **west** from the Rio Vista trolley stop.
-This is the old historic district; largely a tourist trap, however, it's still a fun place to visit.
+This is the old historic district; largely a "tourist trap", however, it's still a fun place to visit.
 
 [Barra Barra Saloon][barra] 🌶 🌮 Great Mexican food and large selection of tequila.
 
@@ -102,7 +105,7 @@ PurpleDiane says *Super Yum! If you love chocolate, you'll love this place!*
 (Thanks to @hayleydenb for the reminder, I don't know how I forgot to add it.)
 
 Some of the best Chinese food is in the Kearney Mesa area.
-PurpleDiane recommends the first 3 places for dinner or Dim Sum ( Dim Sum is lunch only):
+PurpleDiane recommends the first 3 places for dinner or Dim Sum (Dim Sum is lunch only):
 
 [Emerald Seafood Chinese][emerald] 🏮 🐟 🍚 PurpleDiane has been going here for ~~mumble~~ many years.
 Great dim sum, roast duck and (of course) seafood.
