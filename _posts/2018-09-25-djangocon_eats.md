@@ -23,7 +23,7 @@ And of course, a Starbuck's Coffee
 
 [Subway Sandwiches][subway]. 🍞 🍴 Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options. PurpleDiane says *Great for quick sandwiches.*
 
-[IHOP: International House of Pancakes][ihop]. 🍴 🍳 Breakfast all day, and American Diner fare. PurpleDiane says *I would rather eat at Broken Yolk (see below), but I haven't eaten at IHOP in 10+ years.*
+[IHOP: International House of Pancakes][ihop]. 🍴 🍳 Breakfast all day, and American Diner fare. PurpleDiane says *I would rather eat at Broken Yolk (see below), but this place is much more convenient if you have no car, and I haven't eaten at IHOP in 10+ years, so really, what do I know?*
 
 [Oggi's Pizza, Brewing and Sports Bar][oggis]. 🍕 🍺 🍝 Local chain serves pasta, handcrafted pizza & draft beers in a brick-heavy, sports bar setting. Order online for delivery.
 
@@ -41,13 +41,13 @@ One stop **West** of the Rio Vista stop on the Trolley at the Mission Valley Cen
 
 Very close to the trolley stop:
 
-[Sammy's Woodfired Pizza][sammys]. 🍕 🌮 Full-service chain with a contemporary feel serves unique thin-crust pies, small plates & wine. PurpleDiane says *Try the Duck Tacos and Crispy Brussel Sprouts appetizers. Quinoa salad also delicious. I've never actually had pizza here.*
+[Sammy's Woodfired Pizza][sammys]. 🍕 🌮 Full-service chain with a contemporary feel serves unique thin-crust pies, small plates & wine. PurpleDiane says *Try the Duck Tacos and Crispy Brussel Sprouts appetizers. Quinoa salad and Oak Roasted Salmon also delicious. I've never actually had pizza here, but others have told me it's good. Small but good beer selection for a non-beer-focused restaurant (my fav: Mother Earth Cali Creamin')*
 
 [California Fish Grill][fishgrill]. 🍤 🐟 Relaxed chain serving fried & charbroiled seafood, plus chicken & fish tacos, beer & wine. PurpleDiane says *It's all yummy and super fresh.*
 
 Easy walk in the parking lot:
 
-[On The Border Mexican Grill & Cantina][border]. 🌶 🌮 Casual restaurant chain featuring Tex-Mex standards such as fajitas, burritos & grilled meats. PurpleDiane says *Good for typical Americanized Mexican food.*
+[On The Border Mexican Grill & Cantina][border]. 🌶 🌮 Casual restaurant chain featuring Tex-Mex standards such as fajitas, burritos & grilled meats. PurpleDiane says *Good for margaritas and typical Americanized Mexican food.*
 
 More of a walk across the street is Mission Valley Center shopping mall:
 
@@ -115,7 +115,7 @@ Great food though.
 
 Other Chinese/Asian restaurants in Kearney Mesa:
 
-[Kura Revolving Sushi Bar][kura] 🐟 🍣 This place is very fun, but there is usually a long line, so put your name on their list online.
+[Kura Revolving Sushi Bar][kura] 🐟 🍣 This place is very fun, but there is usually a long line, so put your name on their list online. PurpleDiane says *Some of the best sushi around!*
 
 [Dumpling Inn][dumpling] 🏮 🍴 PurpleDiane's favorite place to have Chinese dumplings.
 Potstickers, Pork and Chive dumplings and Xiao Long Bao are fantastic.
@@ -139,6 +139,14 @@ PurpleDiane says *Not cheap, but I've never had a bad meal here. Lovely views, g
 More expensive than most, but food, location and service are tops.
 It's next to the [USS Midway aircraft carrier][midway] and the excellent [Maritime Museum][maritime].
 PurpleDiane says *Go for the Happy Hour 3 - 6 PM*
+
+Here is a [Twitter thread from Trey Hunner][trey] about Mexican food and Donuts.
+(Carne Asada is grilled marinated steak.)
+
+[![twitter]({{ site.baseurl }}/assets/images/Twitter_food.png)](https://twitter.com/treyhunner/status/1049735008506798080)
+
+It's pretty hard to find bad Mexican food in San Diego, though I'm sure it exists.
+I like to think of Carne Asada Fries as a Mexican version of [Poutine][poutine]. 😃 😄 😂
 
 Also, my friend [Anna][ossanna] wrote a [blog post][annablog] about what she likes about San Diego.
 I'm not sure I agree with her comment that we have a "decent public transit system" - I don't think it's very good at all, but I live in the 'burbs where it's pretty much impossible to live without a car.
@@ -170,7 +178,6 @@ I just discovered [they have an app][compass], but I have no experience with it.
 [fiesta]: https://www.fiestadereyes.com/
 [fishgrill]: https://www.cafishgrill.com/
 [greens]: https://www.tendergreens.com/locations/mission-valley
-
 [ihop]: https://restaurants.ihop.com/ca/san-diego/829/
 [innout]: http://locations.in-n-out.com/128
 [islands]: https://www.islandsrestaurants.com/locations/mission-valley
@@ -188,13 +195,14 @@ I just discovered [they have an app][compass], but I have no experience with it.
 [pfc]: https://www.pfchangs.com/locations/us/ca/san-diego/7077-friars-rd/7200-san-diego.html
 [ossanna]: https://twitter.com/OssAnna16
 [passes]: https://sdmts.com/fares-passes
+[poutine]: https://en.wikipedia.org/wiki/Poutine
 [primos]: http://primosmex.com/primos-mex-and-bar/
 [rockin]: https://rockinbaja.com/old-town/
 [rubios]: https://www.rubios.com/
 [rubys]: https://www.rubys.com/locations/san-diego-mission-valley-mall/
-
 [sammys]: http://www.sammyspizza.com/location/mission-valley/
 [spicy]: http://spicycity.menutoeat.com/
 [subway]: http://www.subway.com/en-us
 [tomham]: https://www.tomhamslighthouse.com/
 [top]: https://www.sdtopofthemarket.com/menu/
+[trey]: https://twitter.com/treyhunner/status/1049735008506798080
