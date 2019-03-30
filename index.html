@@ -14,7 +14,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }} {% endif %}
+        {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }} {% endif %}
       </li>
     {% endfor %}
   </ul>
